@@ -8,7 +8,7 @@
 
 
 
-<?php echo "THIS CHARITYWEBSITE WHICH IS GOINT UNDER CONSTRUCTION"; ?>
+<?php echo "THIS CHARITYWEBSITE WHICH IS GOINT UNDER CONSTRUCTIONsss hgggg"; ?>
 
 
 <section class="parallax-window xs-become-a-volunteer xs-section-padding" style="background-image: url('<?php echo base_url();?>assetss/images/volunteer-bg.jpg')">
