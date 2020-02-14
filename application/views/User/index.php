@@ -1,1 +1,1 @@
- 
+<?php echo "hry jhjdhfjdfhd kndfdkf kfndkf"; ?> 
