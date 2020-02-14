@@ -1,7 +1,15 @@
+
+
+
 <style type="text/css">
 	  .xs-volunteer-form-wraper.volunteer-version-3 input:not([type="submit"]), .xs-volunteer-form-wraper.volunteer-version-3 select, .xs-volunteer-form-wraper.volunteer-version-3 textarea, .xs-volunteer-form-wraper.volunteer-version-3 .xs-fileContainer {
     border-color: #e9e9e9;  height: 35px;}
 </style>
+
+
+
+<?php echo "THIS CHARITYWEBSITE WHICH IS GOINT UNDER CONSTRUCTION"; ?>
+
 
 <section class="parallax-window xs-become-a-volunteer xs-section-padding" style="background-image: url('<?php echo base_url();?>assetss/images/volunteer-bg.jpg')">
 	<div class="container">
